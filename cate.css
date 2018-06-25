@@ -1,0 +1,26 @@
+table{
+	border-spacing: 40px 20px;
+}
+
+tr, td{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid blue;
+    background-color: ;
+    font-size: 15px;
+    border-radius: 2px;
+
+}
+
+td: hover{
+	background-color: pink;
+}
+
+.add{
+	border: 1px solid black;
+	border-radius: 2px;
+	background-color: pink;
+	font-size: 20px;
+	padding: 20px;
+
+}
